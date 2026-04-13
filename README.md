@@ -21,7 +21,7 @@
 
  <!-- BLINKIES -->
   <details>
-    <summary><img src="https://arseniccatsnip.neocities.org/assets/meustuffs/tumblr_7fb4a18b7d89133fa54655a5c76bdb43_8f31089f_250.gif" height="15"> ${\textsf{\color{#FF189C}⊹₊˚‧ BLINKIES ‧˚₊⊹}}$</summary>
+    <summary><img src="https://arseniccatsnip.neocities.org/assets/meustuffs/tumblr_7fb4a18b7d89133fa54655a5c76bdb43_8f31089f_250.gif" height="15"> ${\textsf{\color{#FF189C}⊹₊˚‧ STAMPS ‧˚₊⊹}}$</summary>
 
 <img src="https://arseniccatsnip.neocities.org/assets/stamps/meustamp.png" width="99">
 <img src="https://arseniccatsnip.neocities.org/assets/stamps/nepstamp.gif" width="99">
