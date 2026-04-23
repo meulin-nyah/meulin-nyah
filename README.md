@@ -30,8 +30,8 @@
 <img src="https://arseniccatsnip.neocities.org/assets/stamps/heart%20aspect.jpg" width="99">
 <img src="https://xx-hypercryptid-xx.neocities.org/assets/stamps/live%20n%20ship.gif" width="99">
 <img src="https://xx-hypercryptid-xx.neocities.org/assets/stamps/passionate_shipper.jpg" width="99">
-<img src="https://i.postimg.cc/6qFwkh8w/proshipflagstamp.png" width="99">
-<img src="https://i.postimg.cc/sxbykJMd/shipceststamp.png" width="99">
+<img src="https://arseniccatsnip.neocities.org/assets/meustuffs/proshipflagstamp.png" width="99">
+<img src="https://arseniccatsnip.neocities.org/assets/meustuffs/shipceststamp.png" width="99">
 <img src="https://xx-hypercryptid-xx.neocities.org/assets/stamps/fujoshi.png" width="99">
 <img src="https://xx-hypercryptid-xx.neocities.org/assets/stamps/superlovers.png" width="99">
 <img src="https://xx-hypercryptid-xx.neocities.org/assets/stamps/himedanshi.png" width="99">
